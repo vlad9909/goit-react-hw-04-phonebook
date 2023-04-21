@@ -1,0 +1,23 @@
+.list {
+  border: solid 2px black;
+  border-radius: 10px;
+  width: 400px;
+  padding: 30px;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.name {
+  width: 200px;
+}
+
+.noCont {
+  display: flex;
+  justify-content: center;
+}
